@@ -1,4 +1,4 @@
-# elysiajs-pg-bun
+# elysia-pg-bun-sql
 
 Plain [Elysia](https://elysiajs.com) on Bun with `Bun.SQL` (Postgres). Implements the benchmark contract from `http-framework-benchmarks`.
 

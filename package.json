@@ -1,5 +1,5 @@
 {
-  "name": "elysiajs-pg-bun",
+  "name": "elysia-pg-bun-sql",
   "version": "0.0.1",
   "private": true,
   "type": "module",
